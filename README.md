@@ -9,7 +9,7 @@ A smart AI-powered email assistant that helps users generate professional, casua
 ## Gmail Extension Integration:![Home Page](https://github.com/rohit159159/AI-Email-Assistant/blob/b440b0a0e197ce1c5f5ad1ae4097c0dc63203155/Screenshot%202025-09-22%20125417.png)
 
 
-## Generate Email:![Home Page](https://i.imgur.com/example.png)
+## Generate Email:![Home Page](https://github.com/rohit159159/AI-Email-Assistant/blob/fa43c8b0a4fc169cef2085e3e00edbab9dffad6a/Screenshot%202025-09-22%20125529.png)
 
 
 ## 🚀 Features
