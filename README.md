@@ -3,7 +3,7 @@ A smart AI-powered email assistant that helps users generate professional, casua
 
 ## 🎨 Screenshots
 
-## Home / Dashboard: ![Home Page](https://i.imgur.com/example.png)
+## Home / Dashboard: ![Home Page](https://github.com/rohit159159/AI-Email-Assistant/blob/343049f4561389749c125279ecc0e098ad870745/Screenshot%202025-09-22%20125454.png)
 
 
 ## Gmail Extension Integration:![Home Page](https://i.imgur.com/example.png)
